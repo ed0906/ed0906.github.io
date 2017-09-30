@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Applications
 
-You can use the [editor on GitHub](https://github.com/ed0906/ed0906.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Stock Insight
 
-### Markdown
+A stock portfolio tracking application
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://stock-insight.com](https://stock-insight.com)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### User Management Service
 
-- Bulleted
-- List
+A User Management application
 
-1. Numbered
-2. List
+[http://ums.fusing-ideas.com](http://ums.fusing-ideas.com)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### Trade Quoting
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+An application to store and manage quotes for tradesmen/women
 
-### Jekyll Themes
+[https://trade-quoting.herokuapp.com](https://trade-quoting.herokuapp.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ed0906/ed0906.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+#### Nexus Binary Repository
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Repository for binary artifacts
+
+[http://nexus.fusing-ideas.com](http://nexus.fusing-ideas.com)
