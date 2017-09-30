@@ -49,7 +49,7 @@ Source (TBC)
 
 ---
 
-### Contact
+# Contact
 
 [LinkedIn](https://www.linkedin.com/in/wilsonedward/)
 
