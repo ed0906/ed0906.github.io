@@ -1,6 +1,5 @@
 # Applications
 
-
 ### Stock Insight
 
 A stock portfolio tracking application
@@ -27,6 +26,28 @@ An application to store and manage quotes for tradesmen/women
 Repository for binary artifacts
 
 [http://nexus.fusing-ideas.com](http://nexus.fusing-ideas.com)
+
+---
+
+# Libraries
+
+### MJML4J
+
+Java client for the MJML Email templating API
+
+[Source](https://github.com/ed0906/mjml4j)
+
+[Binary](http://nexus.fusing-ideas.com/content/groups/public/ifusion/mjml-client)
+
+### Core
+
+JWT Utilities for webapp authentication
+
+Source (TBC)
+
+[Binary](http://nexus.fusing-ideas.com/content/groups/public/ifusion/core/)
+
+---
 
 ### Contact
 
