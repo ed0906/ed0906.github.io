@@ -36,7 +36,7 @@ Java client for the MJML Email templating API
 
 Java library to create and validate JWTs for webapp authentication
 
-Source (https://github.com/ed0906/jwt4j)
+[Source](https://github.com/ed0906/jwt4j)
 
 [Binary](https://mvnrepository.com/artifact/io.camassia.security/jwt4j)
 
