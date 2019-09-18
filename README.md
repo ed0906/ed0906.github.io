@@ -37,20 +37,20 @@ Java client for the MJML Email templating API
 
 [Source](https://github.com/ed0906/mjml4j)
 
-[Binary](http://nexus.fusing-ideas.com/content/groups/public/ifusion/mjml-client)
+[Binary](https://mvnrepository.com/artifact/io.camassia/mjml4j-client)
 
-### Core
+### JWT4J
 
-JWT Utilities for webapp authentication
+Java library to create and validate JWTs for webapp authentication
 
-Source (TBC)
+Source (https://github.com/ed0906/jwt4j)
 
-[Binary](http://nexus.fusing-ideas.com/content/groups/public/ifusion/core/)
+[Binary](https://mvnrepository.com/artifact/io.camassia.security/jwt4j)
 
 ---
 
 # Contact
 
-[LinkedIn](https://www.linkedin.com/in/wilsonedward/)
+[LinkedIn](https://www.linkedin.com/in/wilsonedward)
 
 [GitHub](https://github.com/ed0906)
