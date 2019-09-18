@@ -20,13 +20,6 @@ An application to store and manage quotes for tradesmen/women
 
 [https://trade-quoting.herokuapp.com](https://trade-quoting.herokuapp.com)
 
-
-### Nexus Binary Repository
-
-Repository for binary artifacts
-
-[http://nexus.fusing-ideas.com](http://nexus.fusing-ideas.com)
-
 ---
 
 # Libraries
