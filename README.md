@@ -1,10 +1,10 @@
 # Applications
 
-### Stock Insight
+### Market Investor
 
-A stock portfolio tracking application
+A Stock + Currency + CryptoCurrency portfolio tracking & Alerting service
 
-[https://stock-insight.com](https://stock-insight.com)
+[https://marketinvestor.io](https://marketinvestor.io)
 
 
 ### Commutr
@@ -12,13 +12,6 @@ A stock portfolio tracking application
 An app which notifies you when your commuter train is delayed
 
 [http://commutr.co.uk](http://commutr.co.uk)
-
-
-### User Management Service
-
-A User Management application
-
-[http://ums.fusing-ideas.com](http://ums.fusing-ideas.com)
 
 
 ### Trade Quoting
