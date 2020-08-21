@@ -2,7 +2,7 @@
 
 ### Market Investor
 
-A Stock + Currency + CryptoCurrency portfolio tracking & Alerting service
+A Stock + Currency + CryptoCurrency portfolio tracking & alerting service
 
 [https://marketinvestor.io](https://marketinvestor.io)
 
